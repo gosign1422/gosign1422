@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Gusain.</h1>
-<h3 align="center">An 18 year old kid learning stuff.</h3>
+<h3 align="center">A 19 year old kid learning stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gosign1422&label=Profile%20views&color=0e75b6&style=flat" alt="gosign1422" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gosign1422" alt="gosign1422" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gosign1422" target="blank"><img src="https://img.shields.io/twitter/follow/gosign1422?logo=twitter&style=for-the-badge" alt="gosign1422" /></a> </p>
-
-- 🌱 I’m currently learning **HTML,CSS,Python**
-
-- 🤝 I’m looking for help with [UPES CheatSheet](https://github.com/YashGusain14/UPES-Cheat-Sheet.git)
 
 - 📫 How to reach me **yashgusain6002@gmail.com**
 
