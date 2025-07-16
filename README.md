@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/gosign1422" target="blank"><img src="https://img.shields.io/twitter/follow/gosign1422?logo=twitter&style=for-the-badge" alt="gosign1422" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gosign1422?tab=repositories](https://github.com/gosign1422?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/gosign1422](https://github.com/gosign1422?tab=repositories)
 
 - 📝 I regularly write articles on [yashgosign.com](yashgosign.com)
 
@@ -15,5 +15,5 @@
 <p align="left">
 <a href="https://twitter.com/gosign1422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gosign1422" height="30" width="40" /></a>
 <a href="https://instagram.com/gosign_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gosign_yash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@itsmegosign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itsmegosign" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ItsMeGosign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itsmegosign" height="30" width="40" /></a>
 </p>
