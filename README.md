@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gosign1422](https://github.com/gosign1422?tab=repositories)
 
-- 📝 I regularly write articles on [yashgosign.com](yashgosign.com)
+- 📝 I regularly write articles on [yashgosign.com](https://yashgosign.com/)
 
 - 📫 How to reach me **yashgusain6002@gmail.com**
 
